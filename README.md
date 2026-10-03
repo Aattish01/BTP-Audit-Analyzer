@@ -80,45 +80,45 @@ BTP Destination service.
 
 **Launchpad** — one tile per app the user's role collections allow.
 
-![Launchpad](screenshots/launchpad.png)
+![Launchpad](screenshots/launchpad-2026-10-03.png)
 
 **Dashboard** — choose subaccounts and a period, click Run.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard-2026-10-03.png)
 
 **User changes**
 
-![User changes](screenshots/user-changes.png)
+![User changes](screenshots/user-changes-2026-10-03.png)
 
 **Application logs** — audit records as plain sentences.
 
-![Application logs](screenshots/application-logs.png)
+![Application logs](screenshots/application-logs-2026-10-03.png)
 
 **SoD analysis**
 
-![SoD analysis](screenshots/sod-analysis.png)
+![SoD analysis](screenshots/sod-analysis-2026-10-03.png)
 
 **Access Explorer** — users and their role collections:
 
-![Access Explorer: users and role collections](screenshots/access-explorer-users.png)
+![Access Explorer: users and role collections](screenshots/access-explorer-users-2026-10-03.png)
 
 … and role collections with their roles, per subaccount:
 
-![Access Explorer: role collections per subaccount](screenshots/access-explorer-collections.png)
+![Access Explorer: role collections per subaccount](screenshots/access-explorer-collections-2026-10-03.png)
 
 **Analysis report**
 
-![Analysis report](screenshots/analysis-report.png)
+![Analysis report](screenshots/analysis-report-2026-10-03.png)
 
 **Service instances** — with creator, service keys and app bindings.
 
-![Service instances](screenshots/service-instances.png)
+![Service instances](screenshots/service-instances-2026-10-03.png)
 
-![Service instances: created by, service keys, app bindings](screenshots/service-instances-keys.png)
+![Service instances: created by, service keys, app bindings](screenshots/service-instances-keys-2026-10-03.png)
 
 **SoD risk admin**
 
-![SoD risk admin](screenshots/sod-risk-admin.png)
+![SoD risk admin](screenshots/sod-risk-admin-2026-10-03.png)
 
 ---
 
