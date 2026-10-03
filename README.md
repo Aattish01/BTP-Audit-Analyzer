@@ -1,4 +1,4 @@
-# BTP Audit Trail Analyzer — showcase
+# BTP Audit Analyzer
 
 **Who changed what in your SAP BTP landscape, and who can do it right now?**
 
